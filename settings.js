@@ -1,7 +1,7 @@
 /*
    * Create By Riych Dwayne
    * Contact Me on wa.me/6281575886399
-   * Follow https://github.com/riychuhuy
+   * Follow https://github.com/TeamOnicbyDell/TeamOnicbydell
 */
 
 const fs = require('fs')
@@ -18,19 +18,19 @@ global.APIKeys = {
 }
 
 // Owner
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.ownernomer = '6281575886399'
-global.premium = ['6281575886399']
-global.ownername = 'Keyol Keren'
-global.botname = 'Keyolbot-Md'
+global.owner = ['012866737','0128667737','0128667737']
+global.ownernomer = '0128667737'
+global.premium = ['0128667737']
+global.ownername = 'Onic'
+global.botname = 'Onic'
 global.footer = 'Keyolbot-Md'
-global.email = 'selawikwok@gmail.com'
-global.ig = 'https://instagram.com/shelaaa817'
+global.email = 'elandelpy61@gmail.com'
+global.ig = 'https://www.instagram.com/elan_delpy/'
 global.region = 'Planet China'
 
 // Keperluan buttons
-global.myweb = 'https://api-riych.herokuapp.com/'
-global.sc = 'https://github.com/Keyols/Keyolbot-Md'
+global.myweb = 'https://instabio.cc/Onicinstabio'
+global.sc = 'https://github.com/TeamOnicbyDell/TeamOnicbydell'
 
 // Wm
 global.packname = 'Keyolbot-Md'
