@@ -18,12 +18,12 @@ global.APIKeys = {
 }
 
 // Owner
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.ownernomer = '6281575886399'
-global.premium = ['6281575886399']
-global.ownername = 'Keyol Keren'
-global.botname = 'Keyolbot-Md'
-global.footer = 'Keyolbot-Md'
+global.owner = ['917085699483']
+global.ownernomer = '917085699483'
+global.premium = ['917085699483']
+global.ownername = 'Mr Ankan'
+global.botname = 'Xac-Md'
+global.footer = 'Xac-Md'
 global.email = 'selawikwok@gmail.com'
 global.ig = 'https://instagram.com/shelaaa817'
 global.region = 'Planet China'
@@ -48,7 +48,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 */
 
 // Lainnya
-global.sessionName = 'session'
+global.sessionName = 'XAC'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 
