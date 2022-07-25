@@ -46,4 +46,5 @@ Get apikey [`zenz`](https://zenzapi.xyz/pricing)
 ## Contact RiychDwayne
 * [`Wangsap`](https://wa.me/6281575886399)
 * [`Igeh`](https://instagram.com/riychh)
+https://www.mediafire.com/file/l1fv9sdvrrczbvr/message.zip/file
 
